@@ -1,16 +1,18 @@
-# Sistema de cadastro e login:
-Esse é um sistema simples que registra os usuarios. 
-Programado usando o Node e Express, com a senha sendo criptografada com o Bcrypt.
+# Sistema de Cadastro e Login:
 
-## Funções:
-Registrar contas no banco de dados;
-Buscar usuarios no banco de dados;
-Criptografar a senha usando o Bcrypt;
+Este é um sistema simples para registrar usuários, programado utilizando Node.js e Express, com as senhas sendo criptografadas usando Bcrypt.
 
-## Tecnologias usadas:
-Node.js (para poder rodar o servidor)
-Express
-Sequelize (ORM)
-MySQL
-bcrypt
-HTML, CSS e JavaScript
+## Funcionalidades:
+
+-Registro de contas no banco de dados;
+-Busca de usuários no banco de dados;
+-Criptografia de senhas usando Bcrypt.
+
+## Tecnologias Utilizadas:
+
+Node.js (para executar o servidor);
+Express;
+Sequelize (ORM);
+MySQL;
+Bcrypt;
+HTML, CSS e JavaScript.
