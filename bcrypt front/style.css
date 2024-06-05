@@ -1,0 +1,60 @@
+
+body {
+    background: rgb(29, 17, 28);
+    font-family: 'Arial';
+  }
+ 
+
+  
+  .input {
+    background: none;
+    border: 0;
+    outline: 0;
+    height: 40px;
+    border-bottom: 1px solid aliceblue;
+    color: #f0f8ff;
+    font-size: 0.9rem;
+    padding: 8px 15px;
+  }
+  
+  .form-section {
+    padding: 13px;
+    font-size: 0.85rem;
+    height: 60px ;
+    width: 250px;
+    border-radius: 10px;
+    background-color: #000000;
+    box-shadow: rgb(0 0 0 / 8%) 0 -1px;
+  }
+  
+  .form-section a {
+    font-weight: bold;
+    color: #0066ff;;
+    transition: color 0.3s ease;
+  }
+  
+
+  button {
+    background-color: #012c6d;
+    color: #f0f8ff;
+    border: 0;
+    border-radius: 24px;
+    padding: 10px 16px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  p{
+    color: aliceblue;
+    font-size: 15px;
+  }
+  h1{
+    color: aliceblue;
+    
+  }
+  
+
+
+  
